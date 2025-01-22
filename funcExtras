@@ -1,0 +1,10 @@
+//Submodulo ou Biblioteca
+//Funcoes codigos/funcoes extras
+
+funcExtra1 (x){
+  codigo funcext1
+}
+
+FuncExtra2 (x) {
+  codigo parsing data
+}
