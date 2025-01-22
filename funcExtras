@@ -12,3 +12,7 @@ FuncExtra2 (x) {
 FuncExtra3 (x) {
   codigo parsing data
 }
+
+FuncExtra4 (x) {
+  codigo funcext4
+}
