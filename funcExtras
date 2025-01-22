@@ -1,7 +1,7 @@
 //Submodulo ou Biblioteca
 //Funcoes codigos/funcoes extras
 
-funcExtra1 (x){
+FuncExtra1 (x){
   codigo funcext1
 }
 
